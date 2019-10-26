@@ -1,3 +1,3 @@
 
 change for pull
-chage for push
+chage for push + push
